@@ -1,13 +1,13 @@
 # About Me
 
-Hello! 👋 I'm Amna Amjid, a budding software enthusiast on a journey to explore the world of technology through coding. I'm passionate about learning and an always excited to dive into new tech challenges.
+Hello! 👋 I'm Amna Amjid, a software engineer enthusiast on a journey to explore the world of technology through coding. I'm passionate about learning and an always excited to dive into new tech challenges.
 
 🚀 Currently, I'm focused on Python, machine learning, and deep learning. I'm eager to collaborate and learn, so feel free to reach out!
 
 💻 My Tech Stack: 
-**Programming Languages**: Python, c++
+**Programming Languages**: Python, C++
 - **Web Development**: Html, CSS, Javascript
-- **Machine Learning & AI**: I have a deep interest in machine learning and hand deep learning.
+- **Machine Learning & AI**: I have a deep interest in machine learning and deep learning.
 - **Cybersecurity**: I'm passionate about cybersecurity and keeping digital spaces safe.
 
 Let's connect and share the tech adventure together! 😄
