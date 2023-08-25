@@ -13,7 +13,7 @@ Hello! 👋 I'm Amna Amjid, a software engineer enthusiast on a journey to explo
 
 Let's connect and share the tech adventure together! 😄
 
-🌐 [LinkedIn](https://www.linkedin.com/in/amna-amjid) | [GitHub](https://github.com/amnaamjid) | [Facebook](https://www.facebook.com/amnaamjid02/) | [Instagram](https://www.instagram.com/amna_amjid/) [twitter](https://twitter.com/AmnaAmjid))
+🌐 [LinkedIn](https://www.linkedin.com/in/amna-amjid) | [GitHub](https://github.com/amnaamjid) | [Facebook(https://www.facebook.com/amnaamjid02/) | [Instagram](https://www.instagram.com/amna_amjid/)| [twitter](https://twitter.com/AmnaAmjid)
 
 
 Feel free to explore my repositories and projects. Don't hesitate to reach out if you have any questions or just want to chat about tech or share new ideas.
