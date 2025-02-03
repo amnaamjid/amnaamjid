@@ -11,16 +11,6 @@
 - 💬 **Ask me about**: AI, Deep Learning, Penetration Testing, Secure Software Development, and Cybersecurity  
 - 📫 **How to reach me**: [Email](mailto:aamjid.msis24seecs@seecs.edu.pk) | [LinkedIn](https://linkedin.com/in/amna-amjid)  
 
-## 📂 **Projects**  
-- **[Deepfake Image Detection Using CNNs](https://github.com/your-username/deepfake-image-detection)**  
-  - A research-based project focused on evaluating CNN architectures for deepfake detection.  
-- **[Intrusion Detection System (IDS)](https://github.com/your-username/IDS)**  
-  - Developed a real-time network packet analysis system for detecting intrusions.  
-- **[Sports Management System](https://github.com/your-username/sports-management-system)**  
-  - Designed and developed a comprehensive desktop application for managing sports events and participant data.  
-- **[Online Learning Management System](https://github.com/your-username/online-learning-system)**  
-  - Designed software requirements and architecture for an online learning platform.
-
 ## 🛠 **Technologies & Tools**  
 - **Languages**: Python, C++, Java, C#, SQL, HTML, CSS, JavaScript  
 - **Frameworks/Tools**: TensorFlow, Keras, Pandas, NumPy, Wireshark, OWASP ZAP, Burp Suite, Git, Microsoft SQL Server, and more!  
