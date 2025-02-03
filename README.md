@@ -9,7 +9,7 @@
 - 🔭 **I’m currently working on**: vulnerablity exploitation, Digital forensics** and **cloud computing**  
 - 🌱 **Learning**: Advanced techniques in Cybersecurity, AI, and Cloud Security  
 - 💬 **Ask me about**: AI, Deep Learning, Penetration Testing, Secure Software Development, and Cybersecurity  
-- 📫 **How to reach me**: [Email](mailto:aamjid.msis24seecs@seecs.edu.pk) | [LinkedIn](https://linkedin.com/in/amna-amjid)  
+- 📫 **How to reach me**: [Email](mailto:aamjid.msis24seecs@seecs.edu.pk) | [LinkedIn](https://www.linkedin.com/in/amna-amjid-a6b800251/)  
 
 ## 🛠 **Technologies & Tools**  
 - **Languages**: Python, C++, Java, C#, SQL, HTML, CSS, JavaScript  
@@ -31,7 +31,7 @@
 
 
 
-🌐 [LinkedIn](https://www.linkedin.com/in/amna-amjid) | [GitHub](https://github.com/amnaamjid) | [Facebook](https://www.facebook.com/amnaamjid02/) | [Instagram](https://www.instagram.com/amna_amjid/)| [twitter](https://twitter.com/AmnaAmjid)
+🌐 [LinkedIn](https://www.linkedin.com/in/amna-amjid-a6b800251/) | [GitHub](https://github.com/amnaamjid) | [Facebook](https://www.facebook.com/amnaamjid02/) | [Instagram](https://www.instagram.com/amna_amjid/)| [twitter](https://twitter.com/AmnaAmjid)
 
 
 Feel free to explore my repositories and projects. Don't hesitate to reach out if you have any questions or just want to chat about tech or share new ideas.
