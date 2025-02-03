@@ -1,17 +1,45 @@
 # About Me
 
-Hello! 👋 I'm Amna Amjid, a software engineer enthusiast on a journey to explore the world of technology through coding. I'm passionate about learning and an always excited to dive into new tech challenges.
+# 👋 Hi, I'm **Amna Amjid**  
+🚀 **Software Engineer | AI Engineer | Cybersecurity Professional | Master's in Information Security**  
 
-🚀 Currently, I'm focused on Python, machine learning, and deep learning. I'm eager to collaborate and learn, so feel free to reach out!
+- 🎓 **Currently pursuing a Master's degree in Information Security at NUST, Islamabad**  
+- 🏆 **Gold Medalist in Software Engineering (University of Haripur, CGPA: 3.97)**  
+- 📜 **Research Focus**: Deep Learning (Deepfake Detection using CNNs), Network Security, Software Design, and AI-driven Cybersecurity solutions.  
+- 🔭 **I’m currently working on**: IDS (Intrusion Detection System) and **Sports Management System**  
+- 🌱 **Learning**: Advanced techniques in Cybersecurity, AI, and Cloud Security  
+- 💬 **Ask me about**: AI, Deep Learning, Penetration Testing, Secure Software Development, and Cybersecurity  
+- 📫 **How to reach me**: [Email](mailto:aamjid.msis24seecs@seecs.edu.pk) | [LinkedIn](https://linkedin.com/in/amna-amjid)  
 
-💻 My Tech Stack: 
+## 📂 **Projects**  
+- **[Deepfake Image Detection Using CNNs](https://github.com/your-username/deepfake-image-detection)**  
+  - A research-based project focused on evaluating CNN architectures for deepfake detection.  
+- **[Intrusion Detection System (IDS)](https://github.com/your-username/IDS)**  
+  - Developed a real-time network packet analysis system for detecting intrusions.  
+- **[Sports Management System](https://github.com/your-username/sports-management-system)**  
+  - Designed and developed a comprehensive desktop application for managing sports events and participant data.  
+- **[Online Learning Management System](https://github.com/your-username/online-learning-system)**  
+  - Designed software requirements and architecture for an online learning platform.
 
-- **Programming Languages**: Python, C++
-- **Web Development**: Html, CSS, Javascript
-- **Machine Learning & AI**: I have a deep interest in machine learning and deep learning.
-- **Cybersecurity**: I'm passionate about cybersecurity and keeping digital spaces safe.
+## 🛠 **Technologies & Tools**  
+- **Languages**: Python, C++, Java, C#, SQL, HTML, CSS, JavaScript  
+- **Frameworks/Tools**: TensorFlow, Keras, Pandas, NumPy, Wireshark, OWASP ZAP, Burp Suite, Git, Microsoft SQL Server, and more!  
+- **Methodologies**: Agile, Scrum, SDLC  
+- **Cloud**: Familiar with AWS, Google Cloud Platform  
+- **Other Skills**: Project Management, Cybersecurity, AI & Machine Learning, Software Quality Assurance
 
-Let's connect and share the tech adventure together! 😄
+## 🏆 **Achievements & Awards**  
+- **Gold Medal in Software Engineering** (University of Haripur)  
+- **Merit-Based Laptop** (Prime Minister’s Laptop Scheme)  
+- **Ehsas Scholarship**  
+- **Research Fund from Ignite & DoST** (Deepfake Image Detection Project)
+
+## 📚 **Certifications**  
+- Machine Learning, Deep Learning (Coursera/Deeplearning.AI)  
+- Project Management (Google IT Support)  
+- Introduction to Cybersecurity (CISCO Networking Academy)  
+
+
 
 🌐 [LinkedIn](https://www.linkedin.com/in/amna-amjid) | [GitHub](https://github.com/amnaamjid) | [Facebook](https://www.facebook.com/amnaamjid02/) | [Instagram](https://www.instagram.com/amna_amjid/)| [twitter](https://twitter.com/AmnaAmjid)
 
