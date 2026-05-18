@@ -6,7 +6,7 @@
 - 🎓 **Currently pursuing a Master's degree in Information Security at NUST, Islamabad**  
 - 🏆 **Gold Medalist in Software Engineering (University of Haripur, CGPA: 3.97)**  
 - 📜 **Research Focus**: Deep Learning (Deepfake Detection using CNNs), Network Security, Software Design, and AI-driven Cybersecurity solutions.  
-- 🔭 **I’m currently working on**: vulnerablity exploitation, Digital forensics** and **cloud computing**  
+- 🔭 **I’m currently working on**: deepfake detection**  
 - 🌱 **Learning**: Advanced techniques in Cybersecurity, AI, and Cloud Security  
 - 💬 **Ask me about**: AI, Deep Learning, Penetration Testing, Secure Software Development, and Cybersecurity  
 - 📫 **How to reach me**: [Email](mailto:aamjid.msis24seecs@seecs.edu.pk) | [LinkedIn](https://www.linkedin.com/in/amna-amjid-a6b800251/)  
