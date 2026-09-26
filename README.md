@@ -43,6 +43,4 @@ I also spend time teaching and mentoring — I enjoy helping students build stro
 
 ---
 
-## 📊 GitHub Stats
 
-![Amna's GitHub stats](https://github-readme-stats.vercel.app/api?username=amnaamjid&show_icons=true&theme=default)
