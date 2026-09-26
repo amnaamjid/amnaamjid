@@ -32,5 +32,7 @@ My work sits at the intersection of AI and Security, focused on building intelli
 
 ---
 
+I'm actively looking to grow in AI safety, adversarial machine learning, media forensics, trust & safety systems, and next-generation AI-driven threat detection platforms. Open to: research collaborations, internships, and full-time opportunities in AI security, ML security, and digital forensics
+
 
 
