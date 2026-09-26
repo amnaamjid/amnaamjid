@@ -1,6 +1,6 @@
 # Hi, I'm Amna Amjid 👋
 
-### AI & Cybersecurity Researcher | Deepfake Detection · Malware Analysis · Digital Forensics
+### AI & Cybersecurity Researcher | Deepfake Detection · Malware Analysis · Digital Forensics · Generative AI
 
 ---
 
