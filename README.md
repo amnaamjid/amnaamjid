@@ -34,13 +34,5 @@ I also spend time teaching and mentoring — I enjoy helping students build stro
 
 ---
 
-## 🚀 Featured Work
-
-- **SGFF-Net** — Multi-domain feature fusion framework for generalizable deepfake detection across diffusion and GAN generators *(Scientific Reports, under review)*
-- **CVE-2023-46604 Exploitation** — Led red-team exploitation of Apache ActiveMQ RCE, mapped to MITRE ATT&CK
-- **Fileless Malware Detection** — ML-based detection from memory forensics, 94%+ accuracy on known and zero-day threats
-- **Web App Security Assessment** — Manual pentest identifying OWASP Top 10 vulnerabilities with full remediation report
-
----
 
 
