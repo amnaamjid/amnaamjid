@@ -8,7 +8,7 @@
 
 I'm a Software Engineer turned Security Researcher, having completed my **MS in Information Security at NUST, Islamabad**, and graduating with a **Gold Medal** in Software Engineering. My work sits at the intersection of **AI and cybersecurity** — I build practical, research-backed solutions for problems like deepfake detection, malware classification, and network threat analysis.
 
-My work sits at the intersection of AI and Security, focused on building intelligent, generalizable systems for deepfake detection, generative AI forensics, and ML/DL-based threat detection. I have hands-on experience in ML-driven malware detection, memory forensics, threat hunting, and incident response, with practical exposure to real-world security datasets and adversarial attack scenarios. 
+My work focuses on building intelligent, generalizable systems for deepfake detection, generative AI forensics, and ML/DL-based threat detection. I have hands-on experience in ML-driven malware detection, memory forensics, threat hunting, and incident response, with practical exposure to real-world security datasets and adversarial attack scenarios. 
 
 - 🎓 MS Information Security, NUST · BS Software Engineering, Gold Medalist (UOH)
 - 🔬 Research interests: AI-driven cybersecurity, deepfake detection, malware analysis, digital forensics
